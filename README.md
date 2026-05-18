@@ -8,10 +8,10 @@ using Python (Pandas) and Power BI dashboards.
 
 ### Objectives
 
--Analyze loan repayment patterns and customer behavior
--Identify factors affecting loan defaults
--Build interactive dashboards for decision-making
--Improve financial risk assessment using data-driven insights
+- Analyze loan repayment patterns and customer behavior
+- Identify factors affecting loan defaults
+- Build interactive dashboards for decision-making
+- Improve financial risk assessment using data-driven insights
 
 ### Tools & Technologies
 
