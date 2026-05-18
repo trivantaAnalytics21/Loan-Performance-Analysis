@@ -36,6 +36,12 @@ using Python (Pandas) and Power BI dashboards.
 - Loan Approval Trends
 - Income vs Loan Status Analysis
 - Region-wise Loan Distribution
+- 
+<img width="2420" height="1825" alt="Loan_Data_Dashboard_1" src="https://github.com/user-attachments/assets/d44a3ba3-f50c-4fcb-b785-08b34cb62644" />
+
+<img width="2420" height="1825" alt="Loan_Data_Dashboard_2" src="https://github.com/user-attachments/assets/329f2188-7145-4212-be86-9d6220283ab6" />
+
+<img width="2420" height="1825" alt="Loan_Data_Dashboard_3" src="https://github.com/user-attachments/assets/3af9d73a-1b8c-40eb-8495-7ce881470d6f" />
 
 ### Business Impact
 
