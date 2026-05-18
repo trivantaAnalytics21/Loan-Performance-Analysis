@@ -15,39 +15,39 @@ using Python (Pandas) and Power BI dashboards.
 
 ### Tools & Technologies
 
--Python
--Pandas
--NumPy
--Power BI
--Excel / CSV
+- Python
+- Pandas
+- NumPy
+- Power BI
+- Excel / CSV
 
 ### Key Features
 
--Data cleaning and preprocessing using Pandas
--KPI tracking: loan approvals, repayments, and defaults
--Interactive Power BI dashboards with filters and slicers
--Risk segmentation by income, credit history, and loan amount
--Trend analysis of loan approvals and delinquency rates
+- Data cleaning and preprocessing using Pandas
+- KPI tracking: loan approvals, repayments, and defaults
+- Interactive Power BI dashboards with filters and slicers
+- Risk segmentation by income, credit history, and loan amount
+- Trend analysis of loan approvals and delinquency rates
 
 ### Dashboard Highlights
 
--Total Loans Issued
--Default Rate Analysis
--Loan Approval Trends
--Income vs Loan Status Analysis
--Region-wise Loan Distribution
+- Total Loans Issued
+- Default Rate Analysis
+- Loan Approval Trends
+- Income vs Loan Status Analysis
+- Region-wise Loan Distribution
 
 ### Business Impact
 
--Helps financial institutions reduce loan defaults
--Improves credit risk assessment
--Supports data-driven loan approval decisions
--Enhances customer segmentation strategies
+- Helps financial institutions reduce loan defaults
+- Improves credit risk assessment
+- Supports data-driven loan approval decisions
+- Enhances customer segmentation strategies
 
 ### Skills Demonstrated
 
--Data Cleaning
--Exploratory Data Analysis (EDA)
--Financial Analytics
--Power BI Dashboarding
--Business Intelligence
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Financial Analytics
+- Power BI Dashboarding
+- Business Intelligence
